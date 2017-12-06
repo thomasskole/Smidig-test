@@ -1,22 +1,7 @@
-#banner{
 
-
-    padding-top: 100px;
-    background-image: url("../img/banner-2.jpeg");
-
-    height: 40vh;
-    width: 100%;
-
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 #jumbo-pic{
-    background-image: url("../img/banner-2.jpeg");
+    background-image: url("../img/banner-3.jpeg");
 
     /* Paralax scrolling effect */
     background-attachment: fixed;
