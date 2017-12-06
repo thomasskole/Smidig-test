@@ -15,6 +15,16 @@
     background-size: cover;
 }
 
+#jumbo-pic{
+    background-image: url("../img/banner-2.jpeg");
+
+    /* Paralax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .center{
     text-align: center;
 }
