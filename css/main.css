@@ -20,3 +20,15 @@
 .white{
     color:whitesmoke;
 }
+
+
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.hr-top{
+    width: 80%;
+    margin:auto;
+
+    padding-bottom: 20px;
+}
